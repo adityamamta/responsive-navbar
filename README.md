@@ -15,3 +15,5 @@ This project features a responsive navigation bar created with HTML, CSS, and Ja
 
 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
 adityamamta4@gmail.com
+
+![preview img](img/navbar-mockup.png)
